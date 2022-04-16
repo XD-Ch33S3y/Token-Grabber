@@ -1,5 +1,5 @@
 <p align="center">
- https://cdn.discordapp.com/attachments/964908009660756043/964930635451994212/1595-isee.png
+<img src="https://cdn.discordapp.com/attachments/964908009660756043/964930635451994212/1595-isee.png" width="128"/>
 </p>
 
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟 Star this Repository if you enjoy Token Grabber!
