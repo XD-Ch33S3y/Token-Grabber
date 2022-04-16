@@ -1,11 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/Rdimo/Hazard-Token-Grabber-V2?style=flat-square">
-  <img src="https://img.shields.io/github/last-commit/Rdimo/Hazard-Token-Grabber-V2?style=flat-square">
-  <img src="https://img.shields.io/github/stars/Rdimo/Hazard-Token-Grabber-V2?color=%23daff00&label=Stars&style=flat-square">
-  <img src="https://img.shields.io/github/forks/Rdimo/Hazard-Token-Grabber-V2?color=%23daff00&label=Forks&style=flat-square">
+ https://cdn.discordapp.com/attachments/964908009660756043/964930635451994212/1595-isee.png
 </p>
 
-## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟 Star this Repository if you enjoy Hazard Stealer V2!
+## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟 Star this Repository if you enjoy Token Grabber!
 
 **NOTE:** This is a free software. It will not be undetected from antivirus software, or have custom features. Remember, this is 100% free. If you want a better one, join [CheatAway](https://cheataway.com/) and purchase one.
 
@@ -13,7 +10,7 @@
 
 #### Hazard-Token-Grabber-V2 was made by
 
-Love ❌ code ✅
+XD-Ch33S3y
 
 #### When someone executes the file, the following info will be sent to you:
 
